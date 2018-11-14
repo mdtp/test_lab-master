@@ -1,4 +1,5 @@
 % Complilation of plotting templates from ALAM CEED Group
+%Change for GitHub
 
 %% Plotting template 1 (he uses it for PPTs) (From Reza)
 
